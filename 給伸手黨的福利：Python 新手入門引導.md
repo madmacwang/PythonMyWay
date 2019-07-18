@@ -30,10 +30,10 @@ Python2 還是 Python3？
 
 - 其他可以嘗試的編輯器：  
 idle： Python 自帶編輯器。如果只是想盡快寫出幾行代碼來，這是最簡便的方式。  
-vs code： Visual Studio Code - Code Editing. Redefined  
-atom： A hackable text editor for the 21st Century  
-SublimeText： Sublime Text Download  
-notepad++： Notepad++ Home  
+[vs code](https://code.visualstudio.com/)： Visual Studio Code - Code Editing. Redefined  
+[atom](https://atom.io/)： A hackable text editor for the 21st Century  
+[SublimeText](https://www.sublimetext.com/)： Sublime Text Download  
+[notepad++](https://notepad-plus-plus.org/)： Notepad++ Home  
 為了讓初學者集中更多的精力在寫代碼這件事情上，所以我們就不推薦 vim 和 Emacs 了。
 
 - 操作系統？  
@@ -54,17 +54,22 @@ Python 支持現有所有主流操作平台，不管是 windows 還是 mac 還�
 
 **1.4 課外練習**
 
-- 《笨辦法學Python》  
-[序言 - [ 笨辦法學Python ] - 看雲](https://link.zhihu.com/?target=http%3A//www.kancloud.cn/kancloud/learn-python-hard-way/49863)  
+- 《笨辦法學 Python》  
+[序言 - [ 笨辦法學 Python ] - 看雲](https://link.zhihu.com/?target=http%3A//www.kancloud.cn/kancloud/learn-python-hard-way/49863)  
+電子書：[笨辦法學 Python](https://drive.google.com/drive/folders/1fJeGNyBd1gMIBJ72umAxMLJ7hpbO6W9I?usp=sharing)  
+電子書(原文新版)：[Learn Python 3 the Hard Way](https://drive.google.com/drive/folders/1sT3nB7NkFqhskfYuyXqicbO7ZBAdYpgu?usp=sharing)   
 這是本很有名的 Python 書籍，但並不適合純零基礎自學。因為其中重實踐但不解釋，新手很容易看得一頭霧水。作為學習同時的輔助倒更合適。
 
 **1.5 其他推薦教程**
 
 - 《父與子的編程之旅》 又名 《與孩子一起學編程》  
-這也是一本非常適合零基礎的 Python 入門書籍。喜歡閱讀紙質書的同學可以買一本，不少在線書店有售。
+這也是一本非常適合零基礎的 Python 入門書籍。喜歡閱讀紙質書的同學可以買一本，不少在線書店有售。  
+電子書：[父與子的編程之旅：與小卡特一起學 Python](https://drive.google.com/file/d/1RZA9QgdOI7J9ZsFk1g0a5X2WzA-xGm79/view?usp=sharing)  
+電子書：[教孩子學編程  PYTHON 語言版](https://drive.google.com/file/d/1Z4cJIP8ZRrgyPnWNn__vQ0gewt8exSe_/view?usp=sharing)
 
 - 《簡明 Python 教程》  
 在線閱讀：[簡明 Python 教程](https://link.zhihu.com/?target=http%3A//www.kuqin.com/abyteofpython_cn/)  
+電子書：[Python 簡明教程](https://drive.google.com/file/d/1VxtUKhbkwfX0F0zXCgntahVNLEKEk0K9/view?usp=sharing)  
 這是一本言簡意賅的 Python 入門教程，簡單直白，沒有廢話。適合有過其他語言基礎的人快速瞭解 Python 語法。
 
 
@@ -73,26 +78,22 @@ Python 支持現有所有主流操作平台，不管是 windows 還是 mac 還�
 **1.6 在線文字教程**
 
 廖雪峰的Python教程  
-[Python教程](https://link.zhihu.com/?target=http%3A//www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)  
+[Python 教程](https://link.zhihu.com/?target=http%3A//www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)  
 廖先生的教程涵蓋了 Python 知識的方方面面，內容更加系統，有一定深度，有一定基礎之後學習會有更多的收穫。
 
 **1.7 其他入門書籍**
 
-- Head First Python
-- Dive Into Python
-- Python 核心編程
-- 深入理解 Python
-- Python 標準庫
-- Python 編程指南
-
-- 我們蒐集了一些網上的電子書版本，放在了網盤裡：  
-​[https://pan.baidu.com/s/1ECLky](https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/1ECLky)
+- [Head First Python](https://drive.google.com/file/d/17Jjw73j0cA0aA2f7vdaHseY297D5qhd-/view?usp=sharing)
+- [Dive Into Python](https://drive.google.com/file/d/1LRMPowMiXrgoEQw4ksjUja-YsfAg5QBw/view?usp=sharing)
+- [Python 核心編程](https://drive.google.com/file/d/14PRJ7YYM-ZfZGKTRCnJimzRlf00WtUHF/view?usp=sharing)
+- [深入理解 Python](https://drive.google.com/file/d/1hThklxPuw7vrBs_V5l6m0F6nk7eGuFdL/view?usp=sharing)
+- [Python 標準庫](https://drive.google.com/file/d/1AUu16eahvVIwXQMVsGS3joY1yGH1FQxg/view?usp=sharing)
+- [Python 編程指南](https://drive.google.com/file/d/15dqWceYQ3Y2NUyqxXSrrz7Le-24lKqh0/view?usp=sharing)
 
 **1.8 交互式學習網站**
 
 - codecademy  
 [Python](https://link.zhihu.com/?target=https%3A//www.codecademy.com/zh/learn/python)
-
 - codeschool：  
 [Learn to code by doing | Code School](https://link.zhihu.com/?target=https%3A//www.codeschool.com/)
 
