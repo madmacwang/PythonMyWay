@@ -1,4 +1,4 @@
-【首發於 Crossin 的編程教室】
+【[首發於 Crossin 的編程教室](https://zhuanlan.zhihu.com/p/25824007)】  
 Crossin​
 上海交通大學 計算機應用技術碩士
 
