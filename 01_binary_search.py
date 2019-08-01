@@ -36,7 +36,7 @@ def binary_search(list, item):
 
 # 設定列表元素
 my_list = [1, 3, 5, 7, 9]
-print (binary_search(my_list, 3)) # => 1 程式搜尋結果是位於第1號位置的元素
+print (binary_search(my_list, 3)) # => 1 程式搜尋結果是位於第1位置的元素
 
 # 'None' means nil in Python. We use to indicate that the item wasn't found.
 print (binary_search(my_list, -1)) # => None 程式搜尋的結果是沒有發現欲搜尋的項目
